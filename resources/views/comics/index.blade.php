@@ -34,6 +34,7 @@
       @endforeach
     </table>
     <a href="{{route('comics.create')}}"  class="create-btn btn-secondary p-2 border rounded">Create new Comic</a>
+    <p>ciao</p>
   </main>
   
 @endsection
