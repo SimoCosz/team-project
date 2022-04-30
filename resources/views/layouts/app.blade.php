@@ -16,6 +16,12 @@
 
     <footer>
         <h2>Questo è il nostro bruttissimo Footer</h2>
+        <ul>
+            <li>Link</li>
+            <li>Link</li>
+            <li>Link</li>
+            <li>Link</li>
+        </ul>
     </footer>
 
 </body>
