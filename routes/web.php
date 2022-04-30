@@ -18,8 +18,4 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-<<<<<<< HEAD
-Route::resource('comics', 'ComicController');
-=======
 Route::resource('comics','ComicController');
->>>>>>> feat-create
